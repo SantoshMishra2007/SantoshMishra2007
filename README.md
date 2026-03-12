@@ -42,7 +42,7 @@ I enjoy creating **interactive user interfaces, scalable web platforms, and visu
 </a>
 
 <a href="https://www.linkedin.com/in/santosh-mishra-499b86331/">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyA7juENXGkALsSH13xrmGvs8Rhl6rOM_rw&s"/ width="40" height="12">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyA7juENXGkALsSH13xrmGvs8Rhl6rOM_rw&s"/ width="300" height="123">
 </a>
 
 </p>
