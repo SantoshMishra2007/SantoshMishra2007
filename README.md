@@ -41,8 +41,8 @@ I enjoy creating **interactive user interfaces, scalable web platforms, and visu
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
-<img src="https://www.linkedin.com/in/santosh-mishra-499b86331/"/>
+<a href="https://www.linkedin.com/in/santosh-mishra-499b86331/">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyA7juENXGkALsSH13xrmGvs8Rhl6rOM_rw&s"/>
 </a>
 
 </p>
